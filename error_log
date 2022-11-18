@@ -1,0 +1,567 @@
+[02-Nov-2021 17:43:47 UTC] PHP Notice:  Use of undefined constant kaan - assumed 'kaan' in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:44:02 UTC] PHP Notice:  Use of undefined constant hakkimizda - assumed 'hakkimizda' in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:44:02 UTC] PHP Notice:  Use of undefined constant baslik - assumed 'baslik' in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:44:58 UTC] PHP Notice:  Use of undefined constant hakkimizda_baslik - assumed 'hakkimizda_baslik' in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:45:25 UTC] PHP Notice:  Use of undefined constant hakkimizda_baslik - assumed 'hakkimizda_baslik' in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:45:25 UTC] PHP Notice:  Use of undefined constant hakkimizda_baslik - assumed 'hakkimizda_baslik' in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:45:26 UTC] PHP Notice:  Use of undefined constant hakkimizda_baslik - assumed 'hakkimizda_baslik' in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:47:39 UTC] PHP Notice:  Undefined variable: h_baslik in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:47:53 UTC] PHP Notice:  Undefined variable: h_baslik in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:47:54 UTC] PHP Notice:  Undefined variable: h_baslik in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:48:12 UTC] PHP Notice:  Undefined variable: kaan in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:48:13 UTC] PHP Notice:  Undefined variable: kaan in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:48:13 UTC] PHP Notice:  Undefined variable: kaan in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:49:08 UTC] PHP Notice:  Undefined variable: kaan in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:49:09 UTC] PHP Notice:  Undefined variable: kaan in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:49:32 UTC] PHP Notice:  Undefined variable: kaan in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:49:33 UTC] PHP Notice:  Undefined variable: kaan in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:55:12 UTC] PHP Notice:  Undefined variable: h_kategori in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:55:17 UTC] PHP Notice:  Undefined variable: h_kategori in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 491
+[02-Nov-2021 17:56:55 UTC] PHP Notice:  Undefined variable: h_baslik2 in /home/yenine/public_html/kaan/sadebilisim/hakkimizda.php on line 526
+[03-Nov-2021 20:23:08 UTC] PHP Notice:  Undefined variable: paket1_marka in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 514
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_indirim in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 525
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_ad in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 529
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 531
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 532
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_trafik in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 533
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_ssd in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 533
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_indirim in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 539
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_ad in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 543
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 545
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_trafik in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 547
+[03-Nov-2021 20:24:45 UTC] PHP Notice:  Undefined variable: paket2_ssd in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 547
+[03-Nov-2021 21:10:32 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 21:11:07 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 21:11:53 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 21:11:54 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 21:12:02 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 21:13:24 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 21:17:16 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 21:29:50 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 22:48:18 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 22:49:42 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 22:50:46 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 22:51:12 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 22:51:26 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 22:54:20 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 22:54:47 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 22:55:43 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 22:56:20 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:00:54 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:02:27 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:03:01 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:06:21 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:08:05 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:10:29 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:10:57 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:13:09 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:13:57 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:16:28 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:16:44 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:17:06 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:18:57 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[03-Nov-2021 23:21:00 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 00:15:57 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 00:18:34 UTC] PHP Notice:  Undefined variable: k_kategori in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 491
+[04-Nov-2021 00:18:34 UTC] PHP Notice:  Undefined variable: k_aciklama1 in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 499
+[04-Nov-2021 00:22:11 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 00:24:43 UTC] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 00:25:26 UTC] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 00:25:32 UTC] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 00:25:42 UTC] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 00:28:35 UTC] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 03:39:25 Europe/Istanbul] PHP Notice:  Use of undefined constant f_yil - assumed 'f_yil' in /home/yenine/public_html/kaan/sadebilisim/yazilar.php on line 135
+[04-Nov-2021 03:39:42 Europe/Istanbul] PHP Fatal error:  Call to undefined function str() in /home/yenine/public_html/kaan/sadebilisim/yazilar.php on line 135
+[04-Nov-2021 03:39:44 Europe/Istanbul] PHP Fatal error:  Call to undefined function str() in /home/yenine/public_html/kaan/sadebilisim/yazilar.php on line 135
+[04-Nov-2021 03:40:07 Europe/Istanbul] PHP Notice:  Use of undefined constant f_yil - assumed 'f_yil' in /home/yenine/public_html/kaan/sadebilisim/yazilar.php on line 135
+[04-Nov-2021 03:40:49 Europe/Istanbul] PHP Notice:  Use of undefined constant f_yil - assumed 'f_yil' in /home/yenine/public_html/kaan/sadebilisim/yazilar.php on line 135
+[04-Nov-2021 03:41:00 Europe/Istanbul] PHP Notice:  Use of undefined constant f_yil - assumed 'f_yil' in /home/yenine/public_html/kaan/sadebilisim/yazilar.php on line 135
+[04-Nov-2021 03:44:17 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 10:41:22 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 10:41:24 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 12:26:36 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 12:26:58 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 12:30:40 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 12:31:17 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 12:32:34 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 12:33:30 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 12:34:09 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 12:50:09 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 13:38:15 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 14:17:16 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:20:57 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:21:12 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:28:47 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:32:45 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:32:57 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:33:32 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:35:23 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:41:23 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:41:32 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:42:00 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:42:12 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:43:05 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 14:43:34 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 19:01:27 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[04-Nov-2021 19:10:51 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[04-Nov-2021 16:36:48 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:36:48 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:36:48 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:36:48 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:36:48 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:36:48 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.smtp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:36:48 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 12
+[04-Nov-2021 16:40:28 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:40:28 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:40:28 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:40:28 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:40:28 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:40:28 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.smtp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:40:28 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 12
+[04-Nov-2021 16:42:55 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:42:55 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:42:55 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:42:55 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:42:55 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:42:55 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.smtp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:42:55 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 12
+[04-Nov-2021 16:44:38 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:44:38 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:44:38 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:44:38 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:44:38 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:44:38 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.smtp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:44:38 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 12
+[04-Nov-2021 16:44:44 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:44:44 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:44:44 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:44:44 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:44:44 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:44:44 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.smtp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:44:44 UTC] PHP Notice:  Undefined index: ad_soyad in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 7
+[04-Nov-2021 16:44:44 UTC] PHP Notice:  Undefined index: telefon in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 8
+[04-Nov-2021 16:44:44 UTC] PHP Notice:  Undefined index: mail in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 9
+[04-Nov-2021 16:44:44 UTC] PHP Notice:  Undefined index: mesaj in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 10
+[04-Nov-2021 16:44:44 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 12
+[04-Nov-2021 16:44:46 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:44:46 UTC] PHP Warning:  include(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:44:46 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 3
+[04-Nov-2021 16:44:46 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:44:46 UTC] PHP Warning:  include(PHPMailer/class.smtp.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:44:46 UTC] PHP Warning:  include(): Failed opening 'PHPMailer/class.smtp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 4
+[04-Nov-2021 16:44:46 UTC] PHP Notice:  Undefined index: ad_soyad in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 7
+[04-Nov-2021 16:44:46 UTC] PHP Notice:  Undefined index: telefon in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 8
+[04-Nov-2021 16:44:46 UTC] PHP Notice:  Undefined index: mail in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 9
+[04-Nov-2021 16:44:46 UTC] PHP Notice:  Undefined index: mesaj in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 10
+[04-Nov-2021 16:44:46 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 12
+[04-Nov-2021 16:49:42 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 12
+[04-Nov-2021 16:54:27 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 5
+[04-Nov-2021 16:54:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 5
+[04-Nov-2021 16:54:35 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 5
+[04-Nov-2021 16:54:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 5
+[04-Nov-2021 16:54:36 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 5
+[04-Nov-2021 16:54:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 5
+[04-Nov-2021 17:00:31 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 17:01:21 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 20:19:09 Europe/Istanbul] PHP Notice:  Undefined index: girilen in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 137
+[04-Nov-2021 20:19:09 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 138
+[04-Nov-2021 20:19:42 Europe/Istanbul] PHP Notice:  Undefined index: girilen in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 137
+[04-Nov-2021 20:19:42 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 138
+[04-Nov-2021 17:20:56 UTC] PHP Notice:  Undefined index: gkod in /home/yenine/public_html/kaan/sadebilisim/gelen.php on line 2
+[04-Nov-2021 17:21:05 UTC] PHP Notice:  Undefined index: gkod in /home/yenine/public_html/kaan/sadebilisim/gelen.php on line 2
+[04-Nov-2021 20:22:00 Europe/Istanbul] PHP Notice:  Undefined index: girilen in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 137
+[04-Nov-2021 20:22:00 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 138
+[04-Nov-2021 20:25:25 Europe/Istanbul] PHP Notice:  Undefined index: girilen in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 137
+[04-Nov-2021 20:25:25 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 138
+[04-Nov-2021 20:26:04 Europe/Istanbul] PHP Notice:  Undefined index: girilen in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 137
+[04-Nov-2021 20:26:04 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 138
+[04-Nov-2021 20:26:12 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 138
+[04-Nov-2021 20:26:25 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 138
+[04-Nov-2021 20:26:26 Europe/Istanbul] PHP Notice:  Undefined index: girilen in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 137
+[04-Nov-2021 20:26:26 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 138
+[04-Nov-2021 20:26:33 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 138
+[04-Nov-2021 18:20:43 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 18:32:51 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 18:33:41 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 18:35:58 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 60
+[04-Nov-2021 18:37:58 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 18:37:58 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 57
+[04-Nov-2021 21:42:48 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 21:54:16 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 21:54:33 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[04-Nov-2021 21:54:57 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[04-Nov-2021 21:55:11 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[04-Nov-2021 21:58:20 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 22:02:02 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 146
+[04-Nov-2021 22:02:19 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[04-Nov-2021 22:05:46 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 130
+[04-Nov-2021 23:11:34 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[05-Nov-2021 01:46:53 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[05-Nov-2021 01:49:18 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[05-Nov-2021 01:49:46 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[05-Nov-2021 01:50:21 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[05-Nov-2021 12:01:25 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[07-Nov-2021 01:46:21 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[07-Nov-2021 01:49:26 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[07-Nov-2021 02:14:03 Europe/Istanbul] PHP Notice:  Undefined variable: form_reply in /home/yenine/public_html/kaan/sadebilisim/demo-talep-formu.php on line 527
+[07-Nov-2021 02:14:52 Europe/Istanbul] PHP Notice:  Undefined variable: form_reply in /home/yenine/public_html/kaan/sadebilisim/demo-talep-formu.php on line 527
+[07-Nov-2021 02:15:48 Europe/Istanbul] PHP Notice:  Undefined variable: form_reply in /home/yenine/public_html/kaan/sadebilisim/demo-talep-formu.php on line 527
+[06-Nov-2021 23:23:38 Etc/UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 15
+[06-Nov-2021 23:23:38 Etc/UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 15
+[06-Nov-2021 23:23:38 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 15
+[06-Nov-2021 23:23:54 Etc/UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 15
+[06-Nov-2021 23:23:54 Etc/UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 15
+[06-Nov-2021 23:23:54 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 15
+[06-Nov-2021 23:24:04 Etc/UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 15
+[06-Nov-2021 23:24:04 Etc/UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 15
+[06-Nov-2021 23:24:04 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 15
+[07-Nov-2021 02:27:16 Europe/Istanbul] PHP Notice:  Undefined variable: form_reply in /home/yenine/public_html/kaan/sadebilisim/demo-talep-formu.php on line 527
+[07-Nov-2021 02:40:05 Europe/Istanbul] PHP Notice:  Undefined property: stdClass::$success1 in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 56
+[07-Nov-2021 02:47:37 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[07-Nov-2021 02:48:52 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[07-Nov-2021 02:49:30 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[07-Nov-2021 02:49:46 Europe/Istanbul] PHP Notice:  Undefined variable: color in /home/yenine/public_html/kaan/sadebilisim/demo-talep-formu.php on line 528
+[07-Nov-2021 02:50:24 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[07-Nov-2021 02:53:20 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[07-Nov-2021 02:54:15 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[07-Nov-2021 02:55:05 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[07-Nov-2021 02:55:20 Europe/Istanbul] PHP Notice:  Undefined variable: color in /home/yenine/public_html/kaan/sadebilisim/demo-talep-formu.php on line 527
+[07-Nov-2021 02:55:20 Europe/Istanbul] PHP Notice:  Undefined variable: msg in /home/yenine/public_html/kaan/sadebilisim/demo-talep-formu.php on line 527
+[07-Nov-2021 02:55:20 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[07-Nov-2021 02:55:36 Europe/Istanbul] PHP Notice:  Undefined index: h-captcha-response in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 46
+[07-Nov-2021 03:28:05 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1797
+[07-Nov-2021 03:30:55 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1784
+[07-Nov-2021 03:30:55 Europe/Istanbul] PHP Notice:  Undefined variable: result in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 867
+[07-Nov-2021 03:31:48 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1791
+[07-Nov-2021 03:32:42 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 03:37:32 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 03:42:18 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 03:47:06 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 03:49:59 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 01:20:04 UTC] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 439
+[07-Nov-2021 01:20:11 UTC] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 439
+[07-Nov-2021 01:20:16 UTC] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 439
+[07-Nov-2021 01:20:18 UTC] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 439
+[07-Nov-2021 01:21:21 UTC] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 442
+[07-Nov-2021 01:21:45 UTC] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/yenine/public_html/kaan/sadebilisim/mail.php on line 442
+[07-Nov-2021 04:22:01 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 04:24:29 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 04:26:28 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 04:28:16 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 04:31:16 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 04:33:10 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 04:50:13 Europe/Istanbul] PHP Notice:  Undefined index: user-name in /home/yenine/public_html/kaan/sadebilisim/iletisim_mail.php on line 23
+[07-Nov-2021 04:50:13 Europe/Istanbul] PHP Notice:  Undefined index: user-name in /home/yenine/public_html/kaan/sadebilisim/iletisim_mail.php on line 229
+[07-Nov-2021 04:50:13 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 04:53:06 Europe/Istanbul] PHP Notice:  Undefined index: user-name in /home/yenine/public_html/kaan/sadebilisim/iletisim_mail.php on line 23
+[07-Nov-2021 04:53:06 Europe/Istanbul] PHP Notice:  Undefined index: user-name in /home/yenine/public_html/kaan/sadebilisim/iletisim_mail.php on line 229
+[07-Nov-2021 04:53:06 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 04:55:01 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 04:57:10 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 532
+[07-Nov-2021 11:58:24 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 546
+[07-Nov-2021 11:59:42 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 09:11:22 UTC] PHP Notice:  Undefined variable: kl_kategori in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 480
+[07-Nov-2021 12:14:39 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 547
+[07-Nov-2021 12:17:42 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 12:17:58 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 12:20:11 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 12:20:14 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 09:20:17 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 09:20:54 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 12:22:40 Europe/Istanbul] PHP Notice:  Undefined variable: kl_paragraf1 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 512
+[07-Nov-2021 12:22:40 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste1 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 514
+[07-Nov-2021 12:22:40 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste2 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 515
+[07-Nov-2021 12:22:40 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste3 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 516
+[07-Nov-2021 12:22:40 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste4 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 517
+[07-Nov-2021 12:22:40 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste5 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 518
+[07-Nov-2021 12:22:40 Europe/Istanbul] PHP Notice:  Undefined variable: kl_aciklama2 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 520
+[07-Nov-2021 12:23:01 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste2 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 515
+[07-Nov-2021 12:23:01 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste3 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 516
+[07-Nov-2021 12:23:01 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste4 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 517
+[07-Nov-2021 12:23:01 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste5 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 518
+[07-Nov-2021 12:23:02 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste2 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 515
+[07-Nov-2021 12:23:02 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste3 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 516
+[07-Nov-2021 12:23:02 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste4 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 517
+[07-Nov-2021 12:23:02 Europe/Istanbul] PHP Notice:  Undefined variable: kl_liste5 in /home/yenine/public_html/kaan/sadebilisim/kalite-politikasi.php on line 518
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 09:23:32 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 09:24:51 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: i_telefon in /home/yenine/public_html/kaan/sadebilisim/alt-yapi.php on line 518
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: dt_mail in /home/yenine/public_html/kaan/sadebilisim/alt-yapi.php on line 518
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 09:28:58 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: i_telefon in /home/yenine/public_html/kaan/sadebilisim/alt-yapi.php on line 518
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: dt_mail in /home/yenine/public_html/kaan/sadebilisim/alt-yapi.php on line 518
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 09:28:59 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 12:33:25 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 12:35:02 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 547
+[07-Nov-2021 13:06:27 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 547
+[07-Nov-2021 13:06:56 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 547
+[07-Nov-2021 13:07:53 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 548
+[07-Nov-2021 13:08:12 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 548
+[07-Nov-2021 13:08:13 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 548
+[07-Nov-2021 13:08:13 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 548
+[07-Nov-2021 13:08:22 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 548
+[07-Nov-2021 13:08:23 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 548
+[07-Nov-2021 13:09:28 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 548
+[07-Nov-2021 13:09:43 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 548
+[07-Nov-2021 13:10:40 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:10:40 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 548
+[07-Nov-2021 13:10:57 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:10:57 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:10:57 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:10:57 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:11:12 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:11:12 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:11:12 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:11:12 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:12:47 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:12:47 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:12:47 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:12:47 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:14:33 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:14:33 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:14:33 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:14:33 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:14:37 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:14:37 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:14:37 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:14:37 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:15:04 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:15:04 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:15:04 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:15:04 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:15:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:15:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:15:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:15:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:16:27 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:16:27 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:16:27 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:16:27 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:16:29 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:16:29 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:16:29 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:16:29 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:16:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:16:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:16:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:16:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:17:13 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:17:13 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:17:13 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:17:13 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:18:11 Europe/Istanbul] PHP Notice:  Undefined variable: paket1_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 521
+[07-Nov-2021 13:18:11 Europe/Istanbul] PHP Notice:  Undefined variable: paket2_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 536
+[07-Nov-2021 13:18:11 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:18:11 Europe/Istanbul] PHP Notice:  Undefined variable: paket3_link in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 551
+[07-Nov-2021 13:19:24 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:20:01 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:20:26 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:20:40 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:21:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:21:45 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:21:52 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:21:52 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:22:02 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:22:11 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 13:22:37 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 13:22:45 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 10:23:11 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 14:13:08 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 14:15:16 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 18:33:31 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 18:33:35 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 18:33:52 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 18:34:32 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 21:35:14 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 21:36:32 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 21:36:34 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 18:37:32 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: facebook_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 79
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: twitter_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 87
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: demo_incele_link in /home/yenine/public_html/kaan/sadebilisim/header.php on line 107
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_logo_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 7
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_adres in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 9
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_telefon in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 10
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_mail in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 11
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_facebook_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 14
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_twitter_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 22
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_google_plus_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 30
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_linkedin_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 38
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_instagram_link in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 46
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: footer_metin in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 104
+[07-Nov-2021 18:38:17 UTC] PHP Notice:  Undefined variable: f_copyright in /home/yenine/public_html/kaan/sadebilisim/footer.php on line 106
+[07-Nov-2021 21:38:31 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 21:44:48 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 21:45:11 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 21:45:14 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 21:45:16 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 21:45:37 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 21:46:05 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 22:02:01 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 22:02:05 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 22:03:55 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 22:04:29 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 22:04:31 Europe/Istanbul] PHP Notice:  Undefined variable: konsept2_link in /home/yenine/public_html/kaan/sadebilisim/konsept-tasarim.php on line 533
+[07-Nov-2021 22:10:51 Europe/Istanbul] PHP Notice:  Undefined variable: paket23_y_fiyat in /home/yenine/public_html/kaan/sadebilisim/e-ticaret-paketleri.php on line 549
+[07-Nov-2021 22:22:37 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 22:22:58 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 22:24:46 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 22:25:03 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
+[07-Nov-2021 22:26:20 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/yenine/public_html/kaan/sadebilisim/PHPMailer/src/PHPMailer.php on line 1790
